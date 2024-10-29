@@ -3,7 +3,7 @@
 ## Local Setup
 
 - Download the latest version of a C++ compiler, like [GCC](https://gcc.gnu.org/) or [Clang](https://clang.llvm.org/).
-- Clone the repository: `git clone https://github.com/Hamzawp/OS-Algorithms.git`
+- Clone the repository: `git clone https://github.com/Hamzawp/CN-CSS-Algorithms.git`
 - Open this directory in Command Prompt or Shell.
 - Compile the file using the command: `g++ file.cpp -o file`
 - Run the file using the command: `./file`
@@ -18,4 +18,4 @@ Hamza Sayyed
 
 ## License 📜
 
-[GPU License](https://github.com/Hamzawp/CN&CSS-Algorithms/blob/master/LICENSE)
+[GPU License](https://github.com/Hamzawp/CN-CSS-Algorithms/blob/master/LICENSE)
