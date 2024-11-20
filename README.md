@@ -18,4 +18,4 @@ Hamza Sayyed
 
 ## License 📜
 
-[GPU License](https://github.com/Hamzawp/CN-CSS-Algorithms/blob/master/LICENSE)
+[GNU License](https://github.com/Hamzawp/CN-CSS-Algorithms/blob/master/LICENSE)
